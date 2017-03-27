@@ -1,3 +1,3 @@
 # mAd
-mad
+git index
 front-page template
